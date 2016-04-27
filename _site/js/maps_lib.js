@@ -163,18 +163,6 @@
         self.whereClause = self.locationColumn + " not equal to ''";
         
         //-----custom filters-----
-
-    // filter for discpline
-    var type_column = "'d_discipline_code'";
-    var searchType = type_column + " IN (-1,";
-    if ( $("#performing-arts").is(':checked')) searchType += "1,";
-    if ( $("#visual-arts").is(':checked')) searchType += "2,";
-    if ( $("#media").is(':checked')) searchType += "3,";
-    if ( $("#culture-heritage").is(':checked')) searchType += "4,";
-    if ( $("#music").is(':checked')) searchType += "5,";
-    if ( $("#other").is(':checked')) searchType += "6,";
-    self.whereClause += " AND " + searchType.slice(0, searchType.length - 1) + ")";    
-
         //-----end of custom filters-----
 
         self.getgeoCondition(address, function (geoCondition) {
