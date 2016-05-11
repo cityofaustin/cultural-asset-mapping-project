@@ -36,13 +36,3 @@ practice your GitHub Markdown | [link to cheat sheet](https://github.com/adam-p/
 ### Contact
 For general project questions, please contact [Shirley Rempe](shirley.rempe@austintexas.gov) at the Economic Development Department. <br/>
 For technical questions, contact [Hailey Pate](hailey.pate@austintexas.gov).
-
-
-
-
-```html
-<a href='http://derekeder.com/searchable_map_template/'>Searchable Map Template</a> 
-by <a href='http://derekeder.com'>Derek Eder</a>.
-```
-
-See [LICENSE](https://github.com/derekeder/FusionTable-Map-Template/blob/master/LICENSE) for more details.
