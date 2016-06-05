@@ -19,11 +19,12 @@ a:hover { color: #4B58A6; }
           background-clip: padding-box; 
 }
 
-.filter-yellow { background-color: #FBF358; }
-.filter-green { background-color: #00E13C; }
-.filter-blue { background-color: #5781FC; }
-.filter-purple { background-color: #7C54FB; }
-.filter-red { background-color: #FB6353; }
+.filter-yellow { background-color: #FFC528; }
+.filter-orange { background-color: #EF8F7B; }
+.filter-blue { background-color: #0F99A8; }
+.filter-purple { background-color: #7E85BA; }
+.filter-red { background-color: #EB5C6D; }
+.filter-indigo { background-color: #293078; }
 
 canvas {-ms-touch-action: double-tap-zoom;}
 
