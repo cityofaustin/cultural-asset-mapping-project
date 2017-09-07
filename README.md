@@ -6,10 +6,6 @@ This repository is used to do three main things:
 - Keep project-related discussions and action items organized in one place
 - Host an interactive web map to showcase the data collected before and during this project
 
-### About the Cultural Asset Mapping Project
-The goals of this project are to collect information about the locations of cultural assets across the City of Austin through crowdsourced mapping and then publish that information to data.austintexas.gov. A public web form will be used to gather the information during a specific survey period. As data is received by project managers, it will be added to an interactive map for participants to explore and review. More information about the project will be published to `a web page at austintexas.gov whose location is tbd`.
-
-This project will be considered complete when the data collected has been published to the city's [open data portal](https://data.austintexas.gov).
 
 ### About the project's interative web map
 The interactive web map used in this project is built using the super awesome  [Searchable Map Template](http://derekeder.com/searchable_map_template/) created by [Derek Eder](http://derekeder.com) in Chicago. More information about how the original template was created, as well as how to use it for your own projects can be found [here](https://github.com/derekeder/FusionTable-Map-Template). The license for Searchable Map Template can be found  [here](https://github.com/derekeder/FusionTable-Map-Template/blob/master/LICENSE).
