@@ -1,4 +1,4 @@
-# cultural-asset-mapping-project 2016
+# campmap test2016
 
 ### About this repo
 This repository is used to do three main things:
